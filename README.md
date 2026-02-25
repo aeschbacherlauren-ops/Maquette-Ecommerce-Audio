@@ -3,7 +3,7 @@
 Projet de maquette réalisé sur Figma.
 
 ## 🔗 Lien Figma
-https://www.figma.com/design/zTD3mirebyqsArYq7ugxeY/Maquette?node-id=0-1&t=wALgmPecYNMfhI8y-1
+https://www.figma.com/community/file/1608467976353115302
 
 ## 📄 Pages réalisées
 - Accueil
